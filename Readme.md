@@ -3,7 +3,6 @@ This is a single-label image data set contains 260k single-label images from 157
 Example Images:
 
 <img src="https://github.com/aboutx/VSGCN/blob/main/img/apple_1.jpg" width="200" height="200"><img src="https://github.com/aboutx/VSGCN/blob/main/img/apple_2.jpg" width="200" height="200">
-<img src="https://github.com/aboutx/VSGCN/blob/main/img/apple_3.jpg" width="200" height="200">
 <img src="https://github.com/aboutx/VSGCN/blob/main/img/apple_4.jpg" width="200" height="200">
 <img src="https://github.com/aboutx/VSGCN/blob/main/img/apple_5.jpg" width="200" height="200">
 
