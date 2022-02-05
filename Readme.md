@@ -3,6 +3,9 @@ This is a single-label image data set contains 260k single-label images from 157
 Example Images:
 
 ![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_1.jpg)
+![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_2.jpg)
+
+![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_3.jpg)
 
 Download:
 https://pan.baidu.com/s/11ZSXuT9Z6bckBpg5jGAtiQ 
