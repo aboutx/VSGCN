@@ -2,11 +2,11 @@ This is a single-label image data set contains 260k single-label images from 157
 
 Example Images:
 
-![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_1.jpg)
-![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_2.jpg)
-![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_3.jpg)
-![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_4.jpg)
-![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_5.jpg)
+![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_1.jpg=250x250)
+![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_2.jpg=250x250)
+![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_3.jpg=250x250)
+![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_4.jpg=250x250)
+![Apple](https://github.com/aboutx/VSGCN/blob/main/img/apple_5.jpg=250x250)
 
 ![Apple](https://github.com/aboutx/VSGCN/blob/main/img/boat_1.jpg)
 ![Apple](https://github.com/aboutx/VSGCN/blob/main/img/boat_2.jpg)
